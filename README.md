@@ -1,0 +1,1 @@
+# GeneticAlgorithmForN-Queen
