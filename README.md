@@ -1,4 +1,4 @@
-# GeneticAlgorithmForN-Queen
+# N_Queen-Genetic Algorithm 
 N-Queens Genetic Algorithm
 Problem Statement:
 The N-Queens problem involves placing N chess queens on an N×N chessboard in such a way that no two queens threaten each other. The goal is to find a solution where no two queens share the same row, column, or diagonal.
